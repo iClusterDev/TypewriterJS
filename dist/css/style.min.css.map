@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss","partials/_variables.scss"],"names":[],"mappings":"AAEA,KACE,kBCHa,CDIb,UCHW,CDIX,YAAa","file":"style.min.css","sourcesContent":["@import \"./partials/variables\";\n\nbody {\n  background: $bg;\n  color: $color;\n  padding: 2rem;\n}\n","$bg: whitesmoke;\n$color: black;\n"]}
