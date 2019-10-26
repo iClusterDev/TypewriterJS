@@ -1,7 +1,7 @@
 # TypewriterJS
 
 A simple vanillaJS Typewriter effect that does just what is supposed to do!.
-Check the live demo [here](https://typewriterjs.netlify.com)
+Check the live demo [here](https://typewriterjs.netlify.com).
 
 ## Contributing
 
