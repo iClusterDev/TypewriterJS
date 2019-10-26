@@ -1,7 +1,7 @@
 {
   "name": "typewriter-js",
   "version": "1.0.0",
-  "description": "Sass Boilerplate to work on static webpages",
+  "description": "A pure JavaScript Typewriter effect",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -41,5 +41,5 @@
   "bugs": {
     "url": "https://github.com/iClusterDev/TypewriterJS/issues"
   },
-  "homepage": "https://github.com/iClusterDev/TypewriterJS#readme"
+  "homepage": "https://github.com/iClusterDev/devkit-static#readme"
 }
