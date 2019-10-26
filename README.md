@@ -1,6 +1,6 @@
-# Devkit-Static
+# TypewriterJS
 
-A Sass project boilerplate, using Gulp4 and BrowserSync. Ideal for building static webpages.
+<!-- A Sass project boilerplate, using Gulp4 and BrowserSync. Ideal for building static webpages.
 
 ### Prerequisites
 
@@ -38,4 +38,4 @@ If you find any issues, feel free to submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. -->
